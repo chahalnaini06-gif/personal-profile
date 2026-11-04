@@ -1,0 +1,32 @@
+﻿body {
+    background-color: lightblue;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
+}
+
+h2 {
+    color: darkred;
+}
+
+p {
+    font-size: 17px;
+}
+
+img {
+    border-square;
+    border: 3px solid darkblue;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    cursor: pointer;
+}
